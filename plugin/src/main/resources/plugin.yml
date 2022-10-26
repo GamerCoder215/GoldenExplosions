@@ -1,0 +1,8 @@
+name: GoldenExplosions
+main: me.gamercoder215.goldenexplosions.GoldenExplosions
+version: ${plugin.version}
+description: ${project.description}
+author: GamerCoder215
+website: ${project.url}
+load: POSTWORLD
+api-version: 1.14
