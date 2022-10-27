@@ -1,0 +1,14 @@
+# ${project.name} v${project.version}
+#
+# Created by GamerCoder215
+
+# Language used by the Plugin.
+# Available Languages:
+#
+# - en (English)
+# - fr (French / Français)
+# - de (German / Deutsch)
+# - es (Spanish / Español)
+# - pt (Portuguese / Português)
+# - it (Italian / Italiano)
+language: en
