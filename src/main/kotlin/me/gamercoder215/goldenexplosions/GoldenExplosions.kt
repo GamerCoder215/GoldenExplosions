@@ -30,7 +30,7 @@ class GoldenExplosions : JavaPlugin() {
             val lang: String = if (getLanguage().equals("en", ignoreCase = true)) "" else "_" + getLanguage()
 
             return try {
-                val str: InputStream = GoldenExplosions::class.java.getResourceAsStream("/lang/plasmaenchants$lang.properties") as InputStream
+                val str: InputStream = GoldenExplosions::class.java.getResourceAsStream("/lang/goldenexplosions$lang.properties") as InputStream
 
                 p.load(str)
                 str.close()
